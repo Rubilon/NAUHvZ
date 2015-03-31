@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+}
+.jumbotron{
+    background-color: #89000A;
+}
+.navbar-nav{
+    background-color:#89000A;
+}
+.container-fluid, .navbar-default, .footer{
+    background-color: #300F11;
+    border: none;
+}
+.navbar-default .navbar-nav>li>a{
+    color: black;
+}
+.navbar-nav li{
+    border: black 1px solid;
+}
+.footer .container p, .pluginConnectTextDark{
+    color: white;
+}
+#daystill{
+    color: black;
+}
+.navbar-collapse{
+	padding-top: 5px;
+}
